@@ -1,5 +1,6 @@
 # SnakeRL
 Play snake game with reinforcement learning. The client is made in Unreal Engine 5, and the RL part is written in python.
+![](docs/capture.png)
 
 # How to Start
 - Open the client project with Unreal Engine 5. 
